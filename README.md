@@ -71,7 +71,7 @@ Each folder contains:
 ## 📫 Contact
 
 📍 Pune, India  
-📧 [inertian.cyberAgmail.com] [kartik0411m@gmail.com]  
+📧 [inertian.cyber@gmail.com] [kartik0411m@gmail.com]  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/kartik-manurkar-44b748208/)
 ---
 
