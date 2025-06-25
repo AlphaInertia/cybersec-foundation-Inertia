@@ -72,4 +72,4 @@ Each folder contains:
 ---
 
 > *"You don’t need permission to become elite — you just need proof of consistent work"*  
-> – Kartik Manurkar (AlphaInertia) 👨‍💻
+> – Kartik Manurkar (AlphaInertia) 
