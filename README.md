@@ -71,5 +71,5 @@ Each folder contains:
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/kartik-manurkar-44b748208/)
 ---
 
-> *“The best way to learn cybersecurity is by doing — not just reading.”*  
+> *"You don’t need permission to become elite — you just need proof of consistent work"*  
 > – Kartik Manurkar (AlphaInertia) 👨‍💻
