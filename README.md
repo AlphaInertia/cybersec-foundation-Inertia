@@ -55,7 +55,6 @@ Each folder contains:
 🎯 Become job-ready for a cybersecurity role by mastering core skills  
 🎯 Complete Security+ or Google Cybersecurity Certificate  
 🎯 Develop a solid GitHub portfolio with documented labs and tools  
-🎯 Eventually specialize in Penetration Testing or SOC Analyst role
 
 ---
 
@@ -77,4 +76,3 @@ Each folder contains:
 
 > *“The best way to learn cybersecurity is by doing — not just reading.”*  
 > – Kartik Manurkar (AlphaInertia) 👨‍💻
-
