@@ -1,6 +1,3 @@
-# cybersec-foundation-Inertia
-My documented journey through core cybersecurity skills — Linux, Python, Networking, Labs, and Tools
-
 # 🔐 Cybersecurity Foundation Journey – Inertia
 
 Welcome to my Stage 1 cybersecurity journey repository!  
